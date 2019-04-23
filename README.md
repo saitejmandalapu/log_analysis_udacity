@@ -24,10 +24,12 @@ VirtualBox --->[https://www.virtualbox.org/wiki/Downloads]
 How to Run Project
 Step1--> Launch the Vagrant VM inside Vagrant sub-directory in the downloaded fullstack-nanodegree-vm repository using command:
 
-  $ vagrant up
+ $ vagrant up
+
 Step2 --> Then Login by using this command:
 
-  $ vagrant ssh
+ $ vagrant ssh
+
 Step3 --> Change Directory to vagrant --> $cd /vagrant
 
 Step4 --> Change Directory to project folder --> $cd logsanlysis
