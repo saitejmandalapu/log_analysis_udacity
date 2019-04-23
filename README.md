@@ -22,6 +22,7 @@ Vagrant --->[https://www.vagrantup.com/]
 Udacity Vagrantfile --->[https://github.com/udacity/fullstack-nanodegree-vm]
 VirtualBox --->[https://www.virtualbox.org/wiki/Downloads]
 How to Run Project
+
 Step1--> Launch the Vagrant VM inside Vagrant sub-directory in the downloaded fullstack-nanodegree-vm repository using command:
 
  $ vagrant up
