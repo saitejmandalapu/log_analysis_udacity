@@ -12,15 +12,23 @@ output.txt - executed Project output file
 
 # Requirements
 Python ---->(Programming Language)
+
 Vagrant ---->(A Virtual Environment)
+
 VirtualBox ---->(An Open Source Virtualization Product)
+
 Installation Process
+
 There are some dependencies and few instructions on how to run the application.
 
 # Dependencies
+
 Vagrant --->[https://www.vagrantup.com/]
+
 Udacity Vagrantfile --->[https://github.com/udacity/fullstack-nanodegree-vm]
+
 VirtualBox --->[https://www.virtualbox.org/wiki/Downloads]
+
 How to Run Project
 
 Step1--> Launch the Vagrant VM inside Vagrant sub-directory in the downloaded fullstack-nanodegree-vm repository using command:
